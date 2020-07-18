@@ -1,0 +1,6 @@
+npm init -y = criação do projeto package.json inicial
+
+npm install express = dependencia usada para lidar com as rotas
+
+
+npm install @types/express -D = ele deve ser instalada com dependencia de desenvolvimento
