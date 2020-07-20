@@ -2,4 +2,12 @@ import express from 'express';
 
 const app = express();
 
-export default Server;
+app.get('/users', (request, response)=>{
+    console.log('listagem de usuarios');
+    response.json([
+        'wes',
+        'wer'
+    ]);
+
+});
+app.listen(3333);

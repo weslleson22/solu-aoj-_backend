@@ -4,3 +4,12 @@ npm install express = dependencia usada para lidar com as rotas
 
 
 npm install @types/express -D = ele deve ser instalada com dependencia de desenvolvimento
+
+npm ins @ts/node -D = dependencia para da start7
+
+npm install typescript -D
+
+npx tsc --init = arquivo de configuração do typescript
+
+npm install ts-node-dev -d =  essa dependecia é para não ficar dando restart 
+sempre que salva o vodigo para ver como está ficando
