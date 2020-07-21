@@ -23,3 +23,6 @@ npm install sqlite3
 migrations é basicamento o historico de versões do banco de dados.
 
 npx knex migrate:latest --knexfile knexfile.ts migrate:latest = criaçãp das tabelas
+
+npm run knex:seed = criação das tabelas de items.
+
