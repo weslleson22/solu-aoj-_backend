@@ -13,3 +13,11 @@ npx tsc --init = arquivo de configuração do typescript
 
 npm install ts-node-dev -d =  essa dependecia é para não ficar dando restart 
 sempre que salva o vodigo para ver como está ficando
+
+
+npm install knex --save 
+
+npm install sqlite3
+
+
+migrations é basicamento o historico de versões do banco de dados.
