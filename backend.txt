@@ -1,3 +1,5 @@
+
+principais comando as serem 
 npm init -y = criação do projeto package.json inicial
 
 npm install express = dependencia usada para lidar com as rotas
