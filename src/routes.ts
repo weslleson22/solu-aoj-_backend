@@ -40,7 +40,7 @@ routes.post('/points', async (request, response)=>{
             uf,
             
         });
-
+//teste comint
         const point_id = inserteIds[0];
         const pointItems = items.map((item_id: number)=>{
             return{
